@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Peek 2023-08-31]([images/homepage gif.gif](https://imgflip.com/gif/7xl9rr))
+![Peek 2023-08-31]((https://imgflip.com/gif/7xl9rr))
 
 # Tools used #
 * HTML, CSS and JavaScript
