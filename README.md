@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Homepage]<img src = "https://imgflip.com/gif/7xl9rr"/>
+![Homepage](https://github.com/valik94/portfolio_website/blob/main/images/homepage%20gif.gif)
 
 # Tools used #
 * HTML, CSS and JavaScript
